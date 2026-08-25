@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Backend/Backend.csproj" Id="b0fb96f1-b1b0-4678-a987-9bcbc12bf03e" />
+  <Project Path="Frontend/Frontend.csproj" Id="b2d166b2-80f2-40bc-84e4-53f3b5e80e78" />
+</Solution>
