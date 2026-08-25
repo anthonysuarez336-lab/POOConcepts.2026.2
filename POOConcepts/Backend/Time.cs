@@ -1,6 +1,4 @@
-﻿using System.Data;
-
-namespace Backend;
+﻿namespace Backend;
 
 public class Time
 {
