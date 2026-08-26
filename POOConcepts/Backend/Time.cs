@@ -81,7 +81,7 @@ public class Time
         {
             hour -= 12;
         }
-        return $"{hour:D2}:{Minute:D2}:{Second:D2}.{Millisecond:D3}{tt}";
+        return $"{hour:D2}:{Minute:D2}:{Second:D2}.{Millisecond:D3} {tt}";
     }
 
     public int ToMilliseconds()
